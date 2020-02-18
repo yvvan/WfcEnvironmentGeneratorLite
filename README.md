@@ -1,4 +1,4 @@
-Procedural Environment Generator (WFC) is based on WaveFunctionCollapse algorithm and allows to generate environments of the user-specified dimensions built from the prepared modules with connection rules.
+Procedural Environment Generator Lite is based on WaveFunctionCollapse algorithm and allows to generate environments of the user-specified dimensions built from the prepared modules with connection rules.
 This is a free version of https://www.unrealengine.com/marketplace/en-US/product/procedural-environment-generator-wfc
 
 In the plugin description you can see the screenshots made after putting WfcActorLiteWithBlueprint (Content/Demo) into the scene and pressing button "Generate in Editor" in the WfcActorWithBlueprint details panel.
